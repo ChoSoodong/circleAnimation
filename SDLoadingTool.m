@@ -10,7 +10,7 @@
 #define KScreenW [UIScreen mainScreen].bounds.size.width
 #define KScreenH [UIScreen mainScreen].bounds.size.height
 #define KLoadingWidth 30
-#define KLineWidth 3
+#define KLineWidth 2
 
 @interface SDLoadingTool()
 
